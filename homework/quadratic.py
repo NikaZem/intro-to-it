@@ -1,4 +1,4 @@
-a, b, c = flat(input()), float(input()), float(input())
+a, b, c = float(input()), float(input()), float(input())
 if a == 0 and b == 0 and c == 0:
     print("а где коэффициенты")
 elif a == 0:
